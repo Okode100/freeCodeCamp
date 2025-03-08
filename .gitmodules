@@ -7,3 +7,6 @@
 [submodule "form/form"]
 	path = form/form
 	url = https://github.com/Okode100/freeCodeCamp
+[submodule "table/table"]
+	path = table/table
+	url = https://github.com/Okode100/freeCodeCamp
