@@ -1,3 +1,6 @@
 [submodule "whiskersblog"]
 	path = whiskersblog
 	url = https://github.com/Okode100/freeCodeCamp
+[submodule "eventhub/eventhub"]
+	path = eventhub/eventhub
+	url = https://github.com/Okode100/freeCodeCamp
