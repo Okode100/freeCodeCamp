@@ -10,3 +10,6 @@
 [submodule "table/table"]
 	path = table/table
 	url = https://github.com/Okode100/freeCodeCamp
+[submodule "checkout/checkout"]
+	path = checkout/checkout
+	url = https://github.com/Okode100/freeCodeCamp
