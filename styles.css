@@ -1,0 +1,40 @@
+body {
+    background-color: purple;
+    font-size: 13px;
+    font-family: "Times New Roman", Arial, sans-serif;
+  }
+  
+  .todo-list {
+    list-style-type: none; /* Ensures no bullets */
+    padding: 0;
+    margin-bottom: 30px;
+    border: 1px solid white;
+  }
+  
+  .sub-item {
+    list-style-type: none;
+    padding-left: 10px;
+  }
+  
+  a {
+    text-decoration: none; /* Removes underline */
+    color: green; /* Default link color */
+  }
+  
+  a:visited {
+    color: orange; /* Changes after being clicked */
+  }
+  
+  a:hover {
+    color: white; /* Changes when hovered */
+  }
+  
+  a:active {
+    color: red; /* Changes when clicked */
+  }
+  
+  a:focus {
+    color: pink; /* Changes when focused */
+    outline: 2px solid cyan; /* Adds visible focus outline */
+  }
+  
