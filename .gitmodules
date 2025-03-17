@@ -13,3 +13,6 @@
 [submodule "checkout/checkout"]
 	path = checkout/checkout
 	url = https://github.com/Okode100/freeCodeCamp
+[submodule "blogpost/blogpost"]
+	path = blogpost/blogpost
+	url = https://github.com/Okode100/freeCodeCamp
