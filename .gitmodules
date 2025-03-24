@@ -16,3 +16,5 @@
 [submodule "blogpost/blogpost"]
 	path = blogpost/blogpost
 	url = https://github.com/Okode100/freeCodeCamp
+[submodule "blogpost"]
+	url = git@github.com:Okode100/blogpost.git
