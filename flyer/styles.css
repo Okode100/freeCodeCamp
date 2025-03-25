@@ -1,0 +1,16 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80vw; /* Set relative to viewport width */
+    min-height: calc(100vh - 100px); /* 100% of viewport height minus padding */
+  }
+  
+  hr, section {
+    width: 80%; /* Set width as a percentage of parent */
+    margin: 20px auto;
+  }
+  
