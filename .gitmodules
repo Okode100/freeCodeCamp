@@ -18,3 +18,6 @@
 	url = https://github.com/Okode100/freeCodeCamp
 [submodule "blogpost"]
 	url = git@github.com:Okode100/blogpost.git
+[submodule "card/card"]
+	path = card/card
+	url = https://github.com/Okode100/freeCodeCamp
