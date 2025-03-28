@@ -1,0 +1,34 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.color-grid {
+    display: flex;
+    gap: 10px;
+}
+
+.color-box {
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.color-box.color1 {
+    background-color: #141718; /* Hex */
+}
+
+.color-box.color2 {
+    background-color: rgb(0, 255, 0); /* RGB */
+}
+
+.color-box.color3 {
+    background-color: red; /* Predefined */
+}
+
+.color-box.color4 {
+    background-color: hsl(200, 100%, 50%); /* HSL */
+}
+
+.color-box.color5 {
+    background-color: yellow; /* Predefined (or try hex, RGB, or HSL) */
+}
