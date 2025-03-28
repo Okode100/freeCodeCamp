@@ -21,3 +21,6 @@
 [submodule "card/card"]
 	path = card/card
 	url = https://github.com/Okode100/freeCodeCamp
+[submodule "color/color"]
+	path = color/color
+	url = https://github.com/Okode100/freeCodeCamp
