@@ -24,3 +24,6 @@
 [submodule "color/color"]
 	path = color/color
 	url = https://github.com/Okode100/freeCodeCamp
+[submodule "conctact/contact"]
+	path = conctact/contact
+	url = https://github.com/Okode100/freeCodeCamp
