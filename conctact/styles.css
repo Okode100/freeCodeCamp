@@ -1,0 +1,37 @@
+.form-container {
+    background-color: #f9f9f9; /* Background color */
+    border-radius: 10px; /* Border radius */
+    padding: 20px; /* Padding */
+    width: 300px; /* Width */
+    margin: auto; /* Center the form */
+}
+
+label {
+    display: block; /* Block display for labels */
+    margin: 10px 0; /* Margin for labels */
+    color: #333; /* Font color */
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%; /* Full width */
+    padding: 10px; /* Padding */
+    margin-bottom: 10px; /* Margin on the bottom */
+    border: 1px solid #ccc; /* Border */
+    border-radius: 5px; /* Border radius */
+}
+
+button {
+    background-color: #4CAF50; /* Button background color */
+    color: white; /* Button text color */
+    padding: 10px 15px; /* Button padding */
+    font-size: 16px; /* Button font size */
+    border: none; /* No border */
+    border-radius: 5px; /* Button border radius */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+button:hover {
+    background-color: #45a049; /* Button hover effect */
+}
