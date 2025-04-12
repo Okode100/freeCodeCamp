@@ -27,3 +27,6 @@
 [submodule "conctact/contact"]
 	path = conctact/contact
 	url = https://github.com/Okode100/freeCodeCamp
+[submodule "htconfi"]
+	path = htconfi
+	url = https://github.com/Okode100/freeCodeCamp
