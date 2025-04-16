@@ -32,3 +32,6 @@
     path = htconfi
     url = https://github.com/Okode100/freeCodeCamp
 
+[submodule "newspaper/newspaper"]
+	path = newspaper/newspaper
+	url = https://github.com/Okode100/freeCodeCamp
