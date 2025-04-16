@@ -1,32 +1,34 @@
 [submodule "whiskersblog"]
-	path = whiskersblog
-	url = https://github.com/Okode100/freeCodeCamp
+    path = whiskersblog
+    url = https://github.com/Okode100/freeCodeCamp
 [submodule "eventhub/eventhub"]
-	path = eventhub/eventhub
-	url = https://github.com/Okode100/freeCodeCamp
+    path = eventhub/eventhub
+    url = https://github.com/Okode100/freeCodeCamp
 [submodule "form/form"]
-	path = form/form
-	url = https://github.com/Okode100/freeCodeCamp
+    path = form/form
+    url = https://github.com/Okode100/freeCodeCamp
 [submodule "table/table"]
-	path = table/table
-	url = https://github.com/Okode100/freeCodeCamp
+    path = table/table
+    url = https://github.com/Okode100/freeCodeCamp
 [submodule "checkout/checkout"]
-	path = checkout/checkout
-	url = https://github.com/Okode100/freeCodeCamp
+    path = checkout/checkout
+    url = https://github.com/Okode100/freeCodeCamp
 [submodule "blogpost/blogpost"]
-	path = blogpost/blogpost
-	url = https://github.com/Okode100/freeCodeCamp
+    path = blogpost/blogpost
+    url = https://github.com/Okode100/freeCodeCamp
 [submodule "blogpost"]
-	url = git@github.com:Okode100/blogpost.git
+    path = blogpost
+    url = git@github.com:Okode100/blogpost.git
 [submodule "card/card"]
-	path = card/card
-	url = https://github.com/Okode100/freeCodeCamp
+    path = card/card
+    url = https://github.com/Okode100/freeCodeCamp
 [submodule "color/color"]
-	path = color/color
-	url = https://github.com/Okode100/freeCodeCamp
+    path = color/color
+    url = https://github.com/Okode100/freeCodeCamp
 [submodule "conctact/contact"]
-	path = conctact/contact
-	url = https://github.com/Okode100/freeCodeCamp 
+    path = conctact/contact
+    url = https://github.com/Okode100/freeCodeCamp
 [submodule "htconfi"]
-	path = htconfi
-	url = https:/github.com/Okode100/freeCodeCamp
+    path = htconfi
+    url = https://github.com/Okode100/freeCodeCamp
+
