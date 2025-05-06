@@ -1,0 +1,59 @@
+#house {
+    flex: 0 0 auto;
+    width: 500px;
+    height: 400px;
+    position: relative;
+    background-color: #ff9980;
+    border: 6px solid #b35900;
+  }
+  
+  #chimney {
+    position: absolute;
+    width: 90px;
+    height: 100px;
+    top: -100px;
+    left: 65%;
+    background: repeating-linear-gradient( #e6e6e6, #e6e6e6 10%, black 10%, black 12% );
+    border: 2px solid black;
+    z-index: -1;
+  }
+  
+  #roof {
+    border: 2px;
+    width: 100%;
+    height: 110px;
+    background-color: green;
+    position: absolute;
+    top: 0;
+    background: repeating-linear-gradient( 45deg, #b35900, #b35900 2%, transparent 2%, transparent 5% ), repeating-linear-gradient( -45deg, #b35900, #b35900 2%, #ff9980 2%, #ff9980 5% );
+  }
+  
+  #window-1 {
+    width: 100px;
+    height: 100px;
+    background: linear-gradient( to right, #ffffb3, #ffffb3 48%, #b35900 48%, #b35900 52%, #ffffb3 52%, #ffffb3 100% );
+    position: absolute;
+    top: 40%;
+    border: 6px solid #b35900;
+    left:3px ;
+  }
+  #window-2 {
+   width: 100px;
+    height: 100px;
+    background: linear-gradient( to right, #ffffb3, #ffffb3 48%, #b35900 48%, #b35900 52%, #ffffb3 52%, #ffffb3 100% );
+    position: absolute;
+    top: 40%;
+    border: 6px solid #b35900;
+    right:2px;
+  
+  }
+  #door {
+    width: 130px;
+    height: 180px;
+    position: absolute;
+    bottom: 0%;
+    left: 185px;
+    background-color: #e6e6e6;
+    border: 6px solid #b35900;
+    transform: translateY(6px);;
+  }
