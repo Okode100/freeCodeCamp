@@ -35,3 +35,6 @@
 [submodule "newspaper/newspaper"]
 	path = newspaper/newspaper
 	url = https://github.com/Okode100/freeCodeCamp
+[submodule "Timetable/Timetable"]
+	path = Timetable/Timetable
+	url = https://github.com/Okode100/freeCodeCamp
